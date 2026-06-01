@@ -3,7 +3,7 @@
 Ini ialah website saya.
 
 ## 🔥 Services
-- Grpahic Design
+- Graphic Design
 - Printing Design
 - Printing
 
